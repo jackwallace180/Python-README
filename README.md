@@ -2,14 +2,20 @@
 ## These are a list of characters put together.
 ## Defined by '' or " "
 
-  my_string = 'Amazing Grilled Fish' print(type(my_string))
+  my_string = 'Amazing Grilled Fish'
+   print(type(my_string))
+
 you can print it
+
   print(my_string)
 
 ## Joining of strings - concatenation
   first_name = 'Boris'
+
   last_name = 'Becker'
+
   print(first_name[0])
+  
 string is a list of characters, so behaves like a list
 
 ## Concatenating 3 strings
