@@ -6,7 +6,7 @@
 you can print it
   print(my_string)
 
-## Joining of strings - concatenation#
+## Joining of strings - concatenation
   first_name = 'Boris'
   last_name = 'Becker'
   print(first_name[0])
